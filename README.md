@@ -1,2 +1,5 @@
-# airflow-tutorial
-Airflow Tutorial
+# Airflow Tutorial
+
+## Table of Contents
+
+ * [Setup](./00-setup)
